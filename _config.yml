@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhibo's homepage"
+title                    : "The winds of freedom blow"
 title_separator          : "-"
-name                     : &name "Zhibo Li / PhD"
-description              : &description "Zhibo Li is interested in the near-surface wind speed change and its implications on wind energy,"
-url                      : https://lzb94.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "SHEN Cheng / PhD"
+description              : &description "SHEN Cheng is interested in the near-surface wind speed change and its implications on wind energy,"
+url                      : https://shen-cheng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LZB94/lzb94.github.io"
+repository               : shen-cheng/shen-cheng.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)s
 words_per_minute         : 160
@@ -70,7 +70,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-theme: minimal
+
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhibo Li (李智博)"
+  name             : "SHEN Cheng (沈成)"
   avatar           : "head.jpg"
-  bio              : "Climatologist"
-  location         : "Beijing, China"
+  bio              : "Wind Climatologist" 
+  location         : "Gothenburg, Sweden"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FjUZ3pIAAAAJ&hl=zh-CN"
-  email            : "zbli@stu.pku.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zhibo-Li-6"
+  googlescholar    : "https://scholar.google.co.kr/citations?user=ovcygYkAAAAJ&hl=zh-CN"
+  email            : "shen159876@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Cheng-Shen-20"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,18 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9135-1583"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1727-2638"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AbanMeteo"
-  vine             :
-  qq               : "327602190"
-  xing             :
-  whatsapp         : ""
-
+  twitter          : "shen159876"
 
 # Reading Files
 include:
