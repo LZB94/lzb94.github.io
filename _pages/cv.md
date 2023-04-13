@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [Link to my CV](/files/Zhibo_Li.CV.pdf) 
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
