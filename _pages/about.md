@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![Deep-time evolutions of aridity and dryland](/images/arid.jpg) 
+![The deep-time evolutions of aridity and dryland](/images/arid.jpg) 
 
 
 👨🏻‍💻 I'm a PhD student working on the climate change in Peking University, supervised by Prof [Yongyun Hu](https://faculty.pku.edu.cn/yyhu/zh_CN/index.htm/).   
