@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![Deep-time evolutions of aridity and dryland](/images/aridity.jpg) 
+![Deep-time evolutions of aridity and dryland](/images/arid.bmp) 
 
 
 
