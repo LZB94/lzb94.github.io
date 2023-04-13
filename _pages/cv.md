@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-My CV can be downloaded here [xx]
+[Link to my CV](/files/Zhibo_Li.CV.pdf) 
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
 ------
