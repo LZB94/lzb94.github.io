@@ -8,33 +8,25 @@ redirect_from:
 ---
 
 {% include base_path %}
+My CV can be downloaded here [xx]
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
 ------
-- 2011 - 2015, **B.S.** in Atmospheric Science, Yunnan University, China
-- 2015 - 2018, **M.S.** in Meteorology, East China Normal University, China
-- 2022 - Now,  **Ph.D** in Climatology, University of Gothenburg, Sweden
+- 2012 - 2016, **B.S.** in Atmospheric Science, Nanjing University of Information Science & Technology (NUIST), China
+- 2016 - 2019, **M.S.** in Meteorology, NUIST, China (Advisor: Tim Li, Ying Sun)
+- 2020 - Now,  **Ph.D** in Atmospheric Science (Physical Oceanography), Peking University (PKU), China (Advisor: Yongyun Hu)
 
 ## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 ------
-* 2018-2022: **Researcher**
-  * Nanjing Meteorological Bureau
-  * Duties included: Climate analysis
+* 2019-2020: **Research Assistant**
+  * Institute of Atmospheric Physics, Chinese   Academy of Sciences
+  * Collabration with Wen Chen
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
 ### Language
-- 江淮官话泰如片: 母语
 - Mandarin: Mothertongue
-- English: Fluent
-- Swedish: Basic
-
-### Computer
-- Python: Advanced
-- Linux and Shell: Good
-- MATLAB: Basic
-- NCL, CDO, NCO: Advanced
-- Github, Linux, WSL, Docker: Proficient
+- English: Fluent in written English
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
 ------
@@ -45,39 +37,34 @@ redirect_from:
 ## 🧑🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
 ------
 I am/was a Teaching Assistant for the following courses:
-- ***Climate Data Applications***
-  - [ID: GVN345](https://www.gu.se/en/study-gothenburg/climate-data-applications-gvn345). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Spring  2023
-- ***Climate Change and Society***
-  - [ID: NG0220](https://www.gu.se/en/study-gothenburg/climate-change-and-society-ng0220). Lectured by Prof [Deliang Chen](http://rcg.gvc.gu.se/dc/); Autumn 2022
+- ***Weather analysis and forecast*** @PKU
+  - Lectured by Prof [Yongyun Hu](https://faculty.pku.edu.cn/yyhu/zh_CN/index.htm/); Autumn  2021; 36hours
 
-## 👨🏻‍🔬 <span style="color:#1E90FF">Supervision</span>
+## 👨🏻‍🔬 <span style="color:#1E90FF">Projects</span>
 ------
-1. YU Yue (**Climate Engineer**, 2021): *[Does CRA-40 outperform other reanalysis products in evaluating near-surface wind speed changes over China?](https://www.sciencedirect.com/science/article/pii/S0169809521005044)* Nanjing Meteorological Bureau
-2. Miguel Andres-Martin (**Master thesis**, 2022): *Near-surface wind speed trends and variability over the northern Antarctic Peninsula, 1979-2020*, Universidad Complutense de Madrid
-3. Bromwel Apondi (**Master thesis**, 2022): *Wind speed and wind energy changes over East-Africa*, University of Gothenburg
-4. YUAN Huishuang (**Bachelor thesis**, 2023): *Monthly near-surface changes over China and its connection to natural internal variability*, Yunnan University
+1. 2017.12-2021.08: National Key R&D: “Response and scenario prediction of East Asian climate system under global warming 1.5ºC” (2017YFA0603802). Participant.
+2. 2020.05-2024.12: NSFC Project: “Continental Evolution and Monsoon Changes” (41888101). Participant.
 
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 ------
-1. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _Attribution of global near-surface wind Speed_ (Oral)
-2. 2021, Guiyang, China, The 6th Symposium on Regional Climate Change Monitoring and Detection, _Assessment of offshore wind trends using global_ centennial reanalysis products (Poster)
-3. 2021, Beijing, China. Chinese Young Scientist Forum 2021, _Influencing factors of global Interdecadal land wind speed changes_ (Oral)
-4. 2021, Beijing, China. Chinese Climate Prediction and Climate Application Technology Forum 2021, _Detection and attribution of global near-surface wind speed_ (Oral)
-5. 2022, Vienna, Austria. EGU 2022, _Projected changes in near-surface wind speed over Iberian Peninsula and associated atmosphere-ocean oscillations_ (Oral)
-6. 2022, Singapore. AOGS 2022, _Future changes in terrestrial near-surface wind speed under specific global warming levels_ (Oral)
-7. 2022, Gothenburg, Sweden. GU-SMHI Wind workshop, _Near-surface wind speed changes over land: simulations from the CMIP6 GCMs_ (Oral)
-8. 2023, Vienna, Austria. EGU 2023, _Evaluation and projection of global terrestrial near-surface wind speed based on CMIP6 GCMs_ (Oral)
-
-# 🎚️ <span style="color:#1E90FF">Service</span>
-------
-## Workshop Organization
-- 2022, Wallenberg Conference Center, Gothenburg, Sweden. _GU-SMHI Wind workshop_
-
+1. 2017.12 Hong Kong, China. _The 3rd NUIST-POSTECH-CITYU Joint Workshop on Climate System Interaction & Future Changes_ (Oral)
+2. 2018.03 Nanjing, China. NJU-NUIST Joint Workshop on Climate Dynamics (Poster)
+3. 2018.12 Nanjing, China. The 4th NUIST-POSTECH-CITYU Joint Workshop on Climate Dynamics & Future Changes (Poster)
+4. 2019.05 Beijing, China. The 4th CAMS-NUIST Joint Center for Season-to-Seasonal Research (Poster)
+5. 2020.06 Beijing, China. The 3th PKU Undergraduate Online Workshop of Atmospheric Science (Invited, Oral)
+6. 2020.07 Nanjing, China. 2020 Annual Project Seminar of “Response and scenario prediction of East Asian climate system under global warming 1.5ºC” (Invited, Oral)
+7. 2021.04 Vienna, Austria. EGU (Online, Oral)
+8. 2021.07 Shanghai, China. The 6th Conference on Earth System Science (Poster)
+9. 2021.11 Beijing, China. The 17th Graduate Academic Salon of the Institute of Atmospheric Physics, Chinese Academy of Sciences (Invited, Oral)
+10. 2023.02 Beijing, China. Center for Monsoon System Research, Institute of Atmospheric Physics, Chinese Academy of Sciences (Oral)
+11. 2023.04 Vienna, Austria. EGU (Poster)
 
 ## 🏅 <span style="color:#1E90FF">Awards and honors</span>
 ------
-1. 2022, Research Fund Adlerbertska Stiftelse, Sweden
-2. 2023, Sven Lindqvists forskningsstiftelse, Sweden
+1. 2018 The Second Prize University’s Scholarship (@NUIST)
+2. 2020 Excellent Master's Thesis (@NUIST)
+3. 2022 Award for Scientific Research (@PKU)
+4. 2022 The Third Prize of Peking University Scholarship (@PKU)
 
 ## 🗿 <span style="color:#1E90FF">Outreach</span>
 ------
@@ -86,17 +73,8 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🤙 <span style="color:#1E90FF">Contact</span>
 ------
-- **E-mail/Skype** (<span style="color:red">Urgent</span>): shen159876@gmail.com
-- **QQ**: 397771745
-- **Work E-mail**: cheng.shen@gu.se
-
-## 🏢 <span style="color:#1E90FF">Address</span>
-------
-Guldhedsgatan 5A \
-Earth Sciences Centre, \
-Göteborg University \
-Box 460 \
-S-405 30 Gothenburg, Sweden
+- **QQ**: 327602190
+- **Work E-mail**: zbli@stu.pku.edu.cn
 
 <style>
 hr:nth-of-type(1) {
