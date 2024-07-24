@@ -13,21 +13,21 @@ redirect_from:
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
 ------
-- 2012 - 2016, **B.S.** in Atmospheric Science, Nanjing University of Information Science & Technology (NUIST), China
-- 2016 - 2019, **M.S.** in Meteorology, NUIST, China (Advisor: Tim Li, Ying Sun)
-- 2020 - Now,  **Ph.D** in Atmospheric Science (Physical Oceanography), Peking University (PKU), China (Advisor: Yongyun Hu)
+- 2020.9 - 2024.6,  **Ph.D** in Atmospheric Science (Physical Oceanography), Peking University (PKU), China (Advisor: Yongyun Hu)
+- 2016.9 - 2019.6, **M.S.** in Meteorology, Nanjing University of Information Science & Technology (NUIST), China (Advisor: Tim Li, Ying Sun)
+- 2012.9 - 2016.6, **B.S.** in Atmospheric Science, NUIST, China
 
 ## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 ------
-* 2019-2020: **Research Assistant**
-  * Institute of Atmospheric Physics, Chinese   Academy of Sciences
-  * Collabration with Wen Chen
+* 2019.8-2020.8: **Research Assistant**
+  * Institute of Atmospheric Physics, Chinese Academy of Sciences
+  * Collabrator: Wen Chen
 
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
 ------
 ### Language
 - Mandarin: Mothertongue
-- English: Fluent in written English
+- English: Fluent
 
 ## 📰 <span style="color:#1E90FF">Publications</span>
 ------
@@ -59,6 +59,8 @@ I am/was a Teaching Assistant for the following courses:
 9. 2021.11 Beijing, China. The 17th Graduate Academic Salon of the Institute of Atmospheric Physics, Chinese Academy of Sciences (Invited, Oral)
 10. 2023.02 Beijing, China. Center for Monsoon System Research, Institute of Atmospheric Physics, Chinese Academy of Sciences (Oral)
 11. 2023.04 Vienna, Austria. EGU (Poster)
+12. 2023.07 Shanghai, China. The 7th Conference on Earth System Science (Oral)
+13. 2023.10 Xian, China. The 13th National Conference on Quaternary Science (Oral)
 
 ## 🏅 <span style="color:#1E90FF">Awards and honors</span>
 ------
