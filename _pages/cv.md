@@ -13,7 +13,7 @@ redirect_from:
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
 ------
-- 2020.9 - 2024.6,  **Ph.D** in Atmospheric Science (Physical Oceanography), Peking University (PKU), China (Advisor: Yongyun Hu)
+- 2020.9 - 2024.6,  **Ph.D** in Atmospheric Science (Physical Oceanography), Peking University (PKU), China (Advisor: [Yongyun Hu](https://faculty.pku.edu.cn/yyhu/))
 - 2016.9 - 2019.6, **M.S.** in Meteorology, Nanjing University of Information Science & Technology (NUIST), China (Advisor: Tim Li, Ying Sun)
 - 2012.9 - 2016.6, **B.S.** in Atmospheric Science, NUIST, China
 
@@ -39,12 +39,12 @@ redirect_from:
 ------
 I am/was a Teaching Assistant for the following courses:
 - ***Weather analysis and forecast*** @PKU
-  - Lectured by Prof [Yongyun Hu](https://faculty.pku.edu.cn/yyhu/zh_CN/index.htm/); Autumn  2021; 36hours
+  - Lectured by Prof. Yongyun Hu; Autumn  2021; 36hours
 
 ## 👨🏻‍🔬 <span style="color:#1E90FF">Projects</span>
 ------
 1. 2017.12-2021.08: National Key R&D: “Response and scenario prediction of East Asian climate system under global warming 1.5ºC” (2017YFA0603802). Participant.
-2. 2020.05-2024.12: NSFC Project: “Continental Evolution and Monsoon Changes” (41888101). Participant.
+2. 2020.05-2024.12: NSFC Project: “Continental evolution and monsoon changes” (41888101). Participant.
 
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 ------
