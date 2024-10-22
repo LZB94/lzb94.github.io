@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I'm Zhibo"
+title: "Hi there, I'm Zhi-Bo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+![Volcano and global wind energy](/images/volcano-wind.png)
+
+![Extreme wind and storm surge](/images/stormsurge.jpg) 
 
 ![The deep-time evolutions of aridity and dryland](/images/arid.jpg) 
 
 
-👨🏻‍💻 I'm a PhD student working on the climate change in Peking University, supervised by Prof [Yongyun Hu](https://faculty.pku.edu.cn/yyhu/zh_CN/index.htm/).   
+👨🏻‍💻 I'm a Postdoc Researcher at the University of Gothenburg, collaborate with [Prof. Deliang Chen](http://rcg.gvc.gu.se/dc/#:~:text=Professor%20Deliang%20Chen%20August%20R%C3%B6hss) and [Dr. Céline Heuzé](https://cheuze.com/). I have a PhD degree in Physical Oceanography at Peking University, supervised by [Prof. Yongyun Hu](https://faculty.pku.edu.cn/yyhu/).   
 
-🔬 My research interests include paleoclimate (deep-time, last millennium), present and future climate (near-surface wind speed, monsoon, atmospheric teleconnection).
+🔬 My research interests include present and future climate (near-surface wind speed, atmospheric hydorlogical cycle, atmospheric teleconnection), as well as paleoclimate (deep-time, last millennium).
 
 📽️ International cooperation is always welcomed!
 
 
 
-Last modified: 2023-04-13
+Last modified: 2024-10-22
 
 <p hidden> 
 # Selected Experience
