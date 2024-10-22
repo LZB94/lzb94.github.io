@@ -12,7 +12,9 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Note</span>
 ------
-Corresponding author: *        Supervised student: $        Co-first author: #
+Corresponding author: *
+Supervised student: $
+Co-first author: #
 
 ## <span style="color:#1E90FF">Submitted</span>
 ------
@@ -35,12 +37,12 @@ Corresponding author: *        Supervised student: $        Co-first author: #
 1. Cheng Shen, Zhi-Bo Li\*, Fei Liu, Deliang Chen\*. Robust reduction in subtropical terrestrial near-surface wind speed after tropical volcanic eruptions. Submitted to _**The Innovation**_. Accepted.
 2. Yadong Lei, Zhili Wang\*, Yangyang Xu, Xiaochao Yu, Chenguang Tian, Zhi-Bo Li, Lei Li, Junting Zhong, Lifeng Guo, Lin Liu, Deying Wang, Huizheng Che, Xiaoye Zhang. Global solar droughts due to supply-demand imbalance exacerbated by anthropogenic climate change. _**Geophysical Research Letters**_. Accepted.
 3. Qingyu Cai, Wen Chen\*, Shangfeng Chen, Tianjiao Ma, Xiadong An, Zhi-Bo Li. Strengthened impact of El Niño-Southern Oscillation on Eurasian teleconnection Pattern since the late-1980s. _**Journal of Climate**_. [https://doi.org/10.1175/JCLI-D-23-0402.1](https://doi.org/10.1175/JCLI-D-23-0402.1)
-4. Zhi-Bo Li, Yang Xu\$, Hui-Shuang Yuan\$, Youli Chang, Cheng Shen\*. AMO footprint of the recent near-surface wind speed change over China. _**Environmental Research Letters**_. 19(11), 114031. [https://doi.org/10.1088/1748-9326/ad7ee4](https://doi.org/10.1088/1748-9326/ad7ee4)
+4. Zhi-Bo Li, Yang Xu$, Hui-Shuang Yuan$, Youli Chang, Cheng Shen\*. AMO footprint of the recent near-surface wind speed change over China. _**Environmental Research Letters**_. 19(11), 114031. [https://doi.org/10.1088/1748-9326/ad7ee4](https://doi.org/10.1088/1748-9326/ad7ee4)
 5. Shiwei Jiang, Xin Zhou\*, Jasper F. Kok, Qifan Lin, Yonggang Liu, Tao Zhan, Yanan Shen, Zhi-Bo Li, Xuanqiao Liu, Anze Chen, Luo Wang, Wen Chen, John P. Smol, Zhengtang Guo. _**Earth-Science Reviews**_. 250, 104937. [https://doi.org/10.1016/j.earscirev.2024.104937](https://doi.org/10.1016/j.earscirev.2024.104937)
 6. Cheng Shen, Zhi-Bo Li, Yadong Lei, Yue Yu, Deliang Chen\*. Increases of offshore wind potential in a warming world. _**Geophysical Research Letters**_. 51(14), e2024GL109494. [https://doi.org/10.1029/2024GL109494](https://doi.org/10.1029/2024GL109494)
 7. Shuai Yuan, Yonggang Liu, Yongyun Hu\*, Jie Mei, Jing Han, Xiujuan Bao, Xiang Li, Qifan Lin, Mengyu Wei, Zhi-Bo Li, Zihan Yin, Kai Man, Jiaqi Guo, Yue Liu, Jiacheng Wu, Jian Zhang, Qiang Wei, Jun Yang, Ji Nei. Controlling factors for the Global Meridional Overturning Circulation: a lesson from the Paleozoic. _**Science Advances**_. 10(26), adm7813. [https://doi.org/10.1126/sciadv.adm7813](https://doi.org/10.1126/sciadv.adm7813)
 8. Zhi-Bo Li, Yongyun Hu\*, Jian Zhang, Xiang Li, Jiaqi Guo, Jiawenjing Lan, Qifan Lin, Shuai Yuan, Mengyu Wei, Zihan Yin, Qiang Wei, Xiujuan Bao, Jing Han, Jun Yang, Yonggang Liu, Ji Nie. The Pacific-North American teleconnection in the Cenozoic. _**Global and Planetary Change**_. 235, 104402. [https://doi.org/10.1016/j.gloplacha.2024.104402](https://doi.org/10.1016/j.gloplacha.2024.104402)
-9. Yue Yu\$, Zhi-Bo Li\*, Zixiang Yan, Huishuang Yuan, Cheng Shen\*. Projected emergence season of year-maximum near-surface wind speed. _**Geophysical Research Letters**_. 51(2), e2023GL107543. [https://doi.org/10.1029/2023GL107543](https://doi.org/10.1029/2023GL107543)
+9. Yue Yu$, Zhi-Bo Li\*, Zixiang Yan, Huishuang Yuan, Cheng Shen\*. Projected emergence season of year-maximum near-surface wind speed. _**Geophysical Research Letters**_. 51(2), e2023GL107543. [https://doi.org/10.1029/2023GL107543](https://doi.org/10.1029/2023GL107543)
 
 ### <span style="color:#1E90FF">2023</span>
 ------
