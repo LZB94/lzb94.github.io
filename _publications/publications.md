@@ -12,7 +12,7 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Note</span>
 ------
-Corresponding author: *        Co-first author: #        Supervised student: $
+Corresponding author: *        Supervised student: $        Co-first author: #
 
 ## <span style="color:#1E90FF">Submitted</span>
 ------
@@ -21,7 +21,7 @@ Corresponding author: *        Co-first author: #        Supervised student: $
 3. Jiawenjing Lan, et al. Evolution of the Walker Circulation during the past 540 million years.
 4. Xiujuan Bao, et al. Quantifying climate conditions for the formation of bauxites and kaolinites.
 5. Zhi-Bo Li, et al. Response of near-surface wind speed to atmospheric CO2 removal.
-6. Shiwei Jiang, et al. Collapse of prehistoric cultures in central-eastern China linked to the El Niño-like states during the 4.2 ka event
+6. Shiwei Jiang, et al. Collapse of prehistoric cultures in central-eastern China linked to the El Niño-like states during the 4.2 ka event.
 7. Zelong Li, et al. A simple model for the hydrological change over Phanerozoic: untangling contributions from climate and continental evolution.
 8. Peng Hu, et al. Distinct features of synoptic-scale equatorial waves before and after the South China Sea summer monsoon onset.
 9. Hui-Shuang Yuan\$, Zhi-Bo Li, et al. Does higher horizontal resolution improve the simulation of near-surface wind speed.
@@ -32,7 +32,7 @@ Corresponding author: *        Co-first author: #        Supervised student: $
 
 ### <span style="color:#1E90FF">2024</span>
 ------
-1. Cheng Shen#\*, Zhi-Bo Li#\*, Fei Liu, Deliang Chen\*. Robust reduction in subtropical terrestrial near-surface wind speed after tropical volcanic eruptions. Submitted to _**The Innovation**_. Accepted.
+1. Cheng Shen, Zhi-Bo Li\*, Fei Liu, Deliang Chen\*. Robust reduction in subtropical terrestrial near-surface wind speed after tropical volcanic eruptions. Submitted to _**The Innovation**_. Accepted.
 2. Yadong Lei, Zhili Wang\*, Yangyang Xu, Xiaochao Yu, Chenguang Tian, Zhi-Bo Li, Lei Li, Junting Zhong, Lifeng Guo, Lin Liu, Deying Wang, Huizheng Che, Xiaoye Zhang. Global solar droughts due to supply-demand imbalance exacerbated by anthropogenic climate change. _**Geophysical Research Letters**_. Accepted.
 3. Qingyu Cai, Wen Chen\*, Shangfeng Chen, Tianjiao Ma, Xiadong An, Zhi-Bo Li. Strengthened impact of El Niño-Southern Oscillation on Eurasian teleconnection Pattern since the late-1980s. _**Journal of Climate**_. [https://doi.org/10.1175/JCLI-D-23-0402.1](https://doi.org/10.1175/JCLI-D-23-0402.1)
 4. Zhi-Bo Li, Yang Xu\$, Hui-Shuang Yuan\$, Youli Chang, Cheng Shen\*. AMO footprint of the recent near-surface wind speed change over China. _**Environmental Research Letters**_. 19(11), 114031. [https://doi.org/10.1088/1748-9326/ad7ee4](https://doi.org/10.1088/1748-9326/ad7ee4)
