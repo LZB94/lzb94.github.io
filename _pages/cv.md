@@ -21,7 +21,7 @@ redirect_from:
 ------
 * 2024.9-now: **Postdoc Researcher**
   * Department of Earth Sciences, University of Gothenburg
-  * Collabrator: [Prof. Deliang Chen](http://rcg.gvc.gu.se/dc/#:~:text=Professor%20Deliang%20Chen%20August%20R%C3%B6hss) and [Dr. Céline Heuzé](https://cheuze.com/).
+  * Collabrator: [Prof. Deliang Chen](https://www.dess.tsinghua.edu.cn/sz/ys.htm) and [Dr. Céline Heuzé](https://cheuze.com/).
 
 * 2019.8-2020.8: **Research Assistant**
   * Institute of Atmospheric Physics, Chinese Academy of Sciences

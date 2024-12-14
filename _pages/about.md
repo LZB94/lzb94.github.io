@@ -15,7 +15,7 @@ redirect_from:
 ![The deep-time evolutions of aridity and dryland](/images/arid.jpg) 
 
 
-👨🏻‍💻 I'm a Postdoc Researcher at the University of Gothenburg, collaborate with [Prof. Deliang Chen](http://rcg.gvc.gu.se/dc/#:~:text=Professor%20Deliang%20Chen%20August%20R%C3%B6hss) and [Dr. Céline Heuzé](https://cheuze.com/). I have a PhD degree in Physical Oceanography at Peking University, supervised by [Prof. Yongyun Hu](https://faculty.pku.edu.cn/yyhu/).   
+👨🏻‍💻 I'm a Postdoc Researcher at the University of Gothenburg, collaborate with [Prof. Deliang Chen](https://www.dess.tsinghua.edu.cn/sz/ys.htm) and [Dr. Céline Heuzé](https://cheuze.com/). I have a PhD degree in Physical Oceanography at Peking University, supervised by [Prof. Yongyun Hu](https://faculty.pku.edu.cn/yyhu/).   
 
 🔬 My research interests include present and future climate (near-surface wind speed, atmospheric hydorlogical cycle, atmospheric teleconnection), as well as paleoclimate (deep-time, last millennium).
 
