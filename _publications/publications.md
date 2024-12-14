@@ -34,7 +34,7 @@ Co-first author: #
 ### <span style="color:#1E90FF">2025</span>
 ------
 1. Cheng Shen, Zhi-Bo Li\*, Fei Liu, Deliang Chen\*. Robust reduction in subtropical terrestrial near-surface wind speed after tropical volcanic eruptions. _**The Innovation**_. 1. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734) [Lead Corresponding Author]
-2. Zhi-Bo Li, Yongyun Hu\*, Qiang Fu, et al. Terrestrial aridity and dryland evolutions since Pangea. _**Paleo2**_.
+2. Zhi-Bo Li, Yongyun Hu\*, Qiang Fu, Xiujuan Bao, Jian Zhang, Xiang Li, Jiaqi Guo, Qifan Lin, Shuai Yuan, Jiawenjing Lan, Jing Han, Shiyan Zhang, Qiang Wei, Yonggang Liu, Jun Yang, Ji Nie, Zhengtang Guo. Terrestrial aridity and dryland evolutions since Pangea. _**Paleoceanography and Paleoclimatology**_.
 
 ### <span style="color:#1E90FF">2024</span>
 ------
