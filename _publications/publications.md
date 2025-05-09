@@ -19,14 +19,9 @@ Co-first author: #
 ## <span style="color:#1E90FF">Submitted</span>
 ------
 1. Zhi-Bo Li, et al. Response of near-surface wind speed to atmospheric CO2 removal.
-2. Cheng Shen, Hui-Shuang Yuan\$, Zhi-Bo Li, et al. Uncertainty induced by internal variability in South Asian near-surface wind speed projections.
-3. Jiawenjing Lan, et al. Evolution of the Walker Circulation during the past 540 million years.
+2. Zhi-Bo Li, et al. Forty years of tropospheric wind changes: Benchmarking reanalysis with radiosonde observations.
+3. Cheng Shen, Hui-Shuang Yuan\$, Zhi-Bo Li, et al. Uncertainty induced by internal variability in South Asian near-surface wind speed projections.
 4. Xiujuan Bao, et al. Quantifying climate conditions for the formation of bauxites and kaolinites.
-5. Hui-Shuang Yuan\$, Zhi-Bo Li, et al. Does higher horizontal resolution improve the simulation of near-surface wind speed.
-6. Shiwei Jiang, et al. Collapse of prehistoric cultures in central-eastern China linked to the El Niño-like states during the 4.2 ka event.
-7. Zelong Li, et al. A simple model for the hydrological change over Phanerozoic: untangling contributions from climate and continental evolution.
-8. Peng Hu, et al. Distinct features of synoptic-scale equatorial waves before and after the South China Sea summer monsoon onset.
-9. Mengyu Wei, et al. Quasi-invariance of tropical meridional surface temperature gradient in a wide range of climates.
 
 ## <span style="color:#1E90FF">Peer-reviewed journal papers</span>
 ------
@@ -35,6 +30,10 @@ Co-first author: #
 ------
 1. Cheng Shen, Zhi-Bo Li\*, Fei Liu, Hans W. Chen, Deliang Chen\*. A robust reduction in near-surface wind speed after volcanic eruptions: Implications for wind energy generation. _**The Innovation**_. 6(1), 100734. [https://doi.org/10.1016/j.xinn.2024.100734](https://doi.org/10.1016/j.xinn.2024.100734) [Lead Corresponding Author & Cover Paper]
 2. Zhi-Bo Li, Yongyun Hu\*, Qiang Fu, Xiujuan Bao, Jian Zhang, Xiang Li, Jiaqi Guo, Qifan Lin, Shuai Yuan, Jiawenjing Lan, Jing Han, Shiyan Zhang, Qiang Wei, Yonggang Liu, Jun Yang, Ji Nie, Zhengtang Guo. Terrestrial aridity and dryland evolutions since Pangea. _**Paleoceanography and Paleoclimatology**_. 40(1), e2024PA004886. [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024PA004886](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024PA004886)
+3.  Zhi-Bo Li, Ming Sun, Cheng Shen\*, Deliang Chen. ENSO-driven seasonal variability in near-surface wind speed and wind power potential across China. _**Geophysical Research Letters**_. 52, e2025GL115537. [https://doi.org/10.1029/2025GL115537]https://doi.org/10.1029/2025GL115537
+4.  Peng Hu, Wen Chen\*, Shangfeng Chen, Jingliang Huangfu, Yulian Tang, Zhi-Bo Li, Ming Sun, Lin Wang, Yuyun Liu. Distinctive features of tropical waves before and after the South China Sea summer monsoon onset. _**Geophysical Research Letters**_. 52(8), e2025GL114763. [https://doi.org/10.1029/2025GL114763]https://doi.org/10.1029/2025GL114763
+5.  Zelong Li, Panxi Dai, Ji Nie\*, Yongyun Hu, Yonggang Liu, Jun Yang, Shuai Yuan, Xiang Li, Jiaqi Guo, Jiawenjing Lan, Xiujuan Bao, Mengyu Wei, Zhi-Bo Li, Kai Man, Zihan Yin. A simple model for the hydrological change over Phanerozoic: Untangling contributions from climate and continental evolution. _**Geophysical Research Letters**_. 52, e2025GL115077. [https://doi.org/10.1029/2025GL115077]https://doi.org/10.1029/2025GL115077
+6.  Shiwei Jiang, Wuhong Luo, Xin Zhou\*, Zhi-Bo Li, Yong Luo, Anze Chen, Xuanqiao Liu, Hongfei Zhao, Guangcheng Zhang, Juzhong Zhang. Collapse of prehistoric cultures in central-eastern China linked to the El Niño-like states during the 4.2 ka event. _**Global and Planetary Change**_. 248, 104772. [https://doi.org/10.1016/j.gloplacha.2025.104772]https://doi.org/10.1016/j.gloplacha.2025.104772
 
 ### <span style="color:#1E90FF">2024</span>
 ------

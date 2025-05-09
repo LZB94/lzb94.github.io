@@ -55,8 +55,12 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 👨🏻‍ <span style="color:#1E90FF">Presentation</span>
 ------
-13. 2023.10 Xian, China. The 13th National Conference on Quaternary Science (Oral)
-12. 2023.07 Shanghai, China. The 7th Conference on Earth System Science (Oral)
+17. 2025.4 Vienna, Austria. EGU 2025. Is Europe becoming stormier? Extratropical cyclone clustering over the last century (Poster)
+16. 2024.12 Washington, USA. AGU 2024. The Pacific-North American teleconnection in the Cenozoic (Poster)
+15. 2024.11 Gothenburg, Sweden. Department Scientific Meeting. Enhanced global dust counteracted greenhouse warming during the mid-to late-Holocene (Oral)
+14. 2024.11 Gothenburg, Sweden. FIKA of Physical Oceanography. AMOC modulates the asymmetric response of near-surface wind speed to atmospheric CO2 removal (Poster)
+13. 2023.10 Xian, China. The 13th National Conference on Quaternary Science. Evolution of terrestrial aridity and dryland since Pangea (Oral)
+12. 2023.07 Shanghai, China. The 7th Conference on Earth System Science. Steady subtropical terrestrial aridity since Pangea (Oral)
 11. 2023.04 Vienna, Austria. EGU (Poster)
 10. 2023.02 Beijing, China. Center for Monsoon System Research, Institute of Atmospheric Physics, Chinese Academy of Sciences (Oral)
 9. 2021.11 Beijing, China. The 17th Graduate Academic Salon of the Institute of Atmospheric Physics, Chinese Academy of Sciences (Invited, Oral)
@@ -71,7 +75,7 @@ I am/was a Teaching Assistant for the following courses:
 
 ## 🛠️ <span style="color:#1E90FF">Peer Reviewer</span>
 ------
-- Environmental Research Communications (3), Environmental Research Letters (3), Journal of Geophysical Research: Atmosphere (1), Measurement Science and Technology (1), The Innovation (1)
+- Climate Dynamics (1), Environmental Research Communications (4), Environmental Research Letters (4), Journal of Geophysical Research: Atmosphere (1), Measurement Science and Technology (1), The Innovation (1)
 
 ## 🗿 <span style="color:#1E90FF">Outreach</span>
 ------
